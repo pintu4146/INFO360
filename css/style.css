@@ -1,0 +1,79 @@
+body {
+  background-color: #a8df65;
+  font-family: Montserrat-black;
+  color: #fff;
+
+}
+.col{
+  font-size: 20px;
+}
+
+
+.container-fluid {
+  width: 50px;
+  padding: 3% 15%;
+  position: relative;
+  display: inline-block;
+}
+
+.container1 {
+  background-color: #a8df65;
+}
+
+#title {
+  background-color: #f37121;
+  color: #fff;
+background-image: url('images/channelARt.png');
+}
+.channelARt{
+  width: 100%;
+  margin: 0;
+  position: relative;
+}
+
+.mainText {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3rem;
+}
+
+.btn btn-dark {
+  margin: 50% 3% 3% 0;
+}
+
+
+/* navigation bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Montserrat-light;
+}
+.channelARt{
+width:100%;
+
+}
+.content{
+
+margin-top: 20px;
+    font-family: Montserrat-light;
+  text-align:center;
+  background-color:#a8df65;
+}
+#footer{
+  margin-top: 100%;
+  text-align: center;
+}
